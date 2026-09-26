@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de colores modernos con Material Design 3  -->
+    <color name="primary_blue">#0D47A1</color>
+    <color name="primary_dark_blue">#002171</color>
+    <color name="accent_orange">#FF9100</color>
+    <color name="background_light">#FBFDFF</color>
+    <color name="text_dark">#191C1E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_hint">#70777C</color>
+    <!-- Colores de superficie para mejorar la profundidad -->
+    <color name="surface_variant">#DEE3EB</color>
+    <color name="on_surface_variant">#43474E</color>
+</resources>

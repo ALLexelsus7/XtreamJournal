@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gradiente personalizado para main activity -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="135"
+        android:endColor="#E3F2FD"
+        android:startColor="#FBFDFF"
+        android:type="linear" />
+</shape>

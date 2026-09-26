@@ -1,0 +1,26 @@
+<resources>
+<!--  Textos y array para el Spinner de categorias  -->
+    <string name="app_name">XtreamJournal</string>
+    <string name="title_registro">Registrar Expedición</string>
+    <string name="hint_ubicacion">Ubicación Geográfica (Ej. Everest)</string>
+    <string name="hint_presupuesto">Presupuesto (USD)</string>
+    <string name="hint_emociones">Emociones experimentadas…</string>
+    <string name="label_categoria">Nivel de Riesgo:</string>
+    <string name="label_transporte">Medio de Transporte:</string>
+    <string name="transporte_4x4">Vehículo 4x4</string>
+    <string name="transporte_aereo">Aéreo (Helicóptero/Avioneta)</string>
+    <string name="transporte_pie">Trekking / A pie</string>
+    <string name="btn_guardar">Guardar Bitácora</string>
+    <string name="welcome_message">Bienvenido a\nXtream Journal</string>
+    <string name="btn_nueva_expedicion">Nueva Expedición</string>
+    <string name="toggle_epico_off">Viaje Normal</string>
+    <string name="toggle_epico_on">¡VIAJE ÉPICO!</string>
+
+    <string-array name="array_categorias_riesgo">
+        <item>Selecciona una categoría…</item>
+        <item>Alta Montaña / Alpinismo</item>
+        <item>Supervivencia en Selva</item>
+        <item>Buceo Profundo</item>
+        <item>Deportes Aéreos (Paracaidismo)</item>
+    </string-array>
+</resources>

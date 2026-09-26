@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la app -->
+    <style name="Base.Theme.XtreamJournal" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/background_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/background_light</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+        <!-- Tipografia y refinamiento de formas -->
+        <item name="textAppearanceHeadlineMedium">@android:style/TextAppearance.Material.Headline</item>
+    </style>
+
+    <style name="Theme.XtreamJournal" parent="Base.Theme.XtreamJournal" />
+
+    <style name="SpinnerTemaOscuro" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+    </style>
+
+</resources>
