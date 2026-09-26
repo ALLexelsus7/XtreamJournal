@@ -25,5 +25,5 @@ Xtreme Journal es una aplicación local-first diseñada para que los entusiastas
 3. Espera a que termine la sincronización de **Gradle**.
 4. Ejecuta la aplicación en un emulador de Android o en un dispositivo físico conectado.
 
-Proyecto desarrollado en equipo por: Alex Ruiz Jordan, Juan Pablo Lopez Hernandez, 
-Samuel de Jesus Torres Godoy y Renulfo Leonel Martinez Haro (Centro de Enseñanza Técnica e Industrial).
+Proyecto desarrollado en equipo por: AlexRJ, Juan Pablo, 
+Samuel y Leonel (Centro de Enseñanza Técnica e Industrial).
